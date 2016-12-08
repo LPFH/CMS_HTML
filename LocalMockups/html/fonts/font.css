@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'FH16-Icons';
+    src: url('FH16-Icons.eot?k5174l');
+    src: url('FH16-Icons.eot?k5174l#iefix') format('embedded-opentype'), url('FH16-Icons.ttf?k5174l') format('truetype'), url('FH16-Icons.woff?k5174l') format('woff'), url('FH16-Icons.svg?k5174l') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Knockout';
+    src: url('Knockout-HTF29-JuniorLiteweight.eot?k5174l');
+    src: url('Knockout-HTF29-JuniorLiteweight.eot??k5174l#iefix') format('embedded-opentype'), url('Knockout-HTF29-JuniorLiteweight.woff?k5174l') format('woff'), url('Knockout-HTF29-JuniorLiteweight.ttf?k5174l') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+

@@ -1,0 +1,33 @@
+Navigation revisions 
+
+Sold out button fix on catalog - need ryancode push
+
+24800	Bug	Nav_Tablet: Nav doesn't take up whole screen, causes odd scrolling behavior.	New	Fathead\Fathead.com	Fathead\Active\2016-22	 
+
+	 
+
+
+
+Need merge/code push to complete :________________
+24641	Bug	PDP_Mobile: Shopper Approved styling	New	Fathead\Fathead.com	Fathead\Active\2016-22	 
+---
+24640	Bug	PDP_Mobile: 'Other Recommendations should be a slider style not scrolling	New	Fathead\Fathead.com	Fathead\Active\2016-22	 
+
+
+
+
+
+Done bugs:_________________________________
+---
+25046	Bug	Home Page: Logos Should be Clickable on Fan Photo Carousel	New	Fathead\Fathead.com	Fathead\Active\2016-22
+
+Extras that are done:________________
+---
+Breakpoint adjustment for mobile filter access
+IE 'x' showing up in search
+header logo and icon alignmnet
+Horiz scroll on product type dropdown on some sizes
+
+Done when merge takes affect:__________________________
+---
+24963	Bug	Status Badge Styling: All Badges Needs Styling and moved to the upper LEFT	New	Fathead\Fathead.com	Fathead\Active\2016-22	 
